@@ -4,7 +4,7 @@
 </div>  
 
 ## GitHub de Pruebas
-- Que abra aqui:
+- Que habrá aqui:
   - Tareas
   - Repositorios de prueba
 
