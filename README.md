@@ -10,6 +10,6 @@
 
 
 ## Redes de Contacto
-<a href="linkedin.com/in/sebastián-benjamín-muñoz-clavería-5523251a4/">
+<a href="https://www.linkedin.com/in/sebastián-benjamín-muñoz-clavería-5523251a4/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="LinkedIn" width="96"/>
 </a>
